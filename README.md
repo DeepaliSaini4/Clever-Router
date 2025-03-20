@@ -1,4 +1,4 @@
-# Genetic Algorithm Based Logistics Optimization Model
+# Clever Router
 
 ## Project Overview
 This project focuses on solving the **Vehicle Routing Problem (VRP)** using **Genetic Algorithms (GAs)** to optimize delivery routes for multiple vehicles. The solution aims to minimize the total travel distance while maintaining balanced workloads across vehicles.
